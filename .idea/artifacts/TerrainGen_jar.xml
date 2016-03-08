@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TerrainGen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TerrainGen_jar</output-path>
+    <root id="archive" name="TerrainGen.jar">
+      <element id="module-output" name="TerrainGen" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/jackson-core-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/jackson-annotations-2.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Libraries/jackson-databind-2.7.1-1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
